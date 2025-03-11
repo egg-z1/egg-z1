@@ -14,6 +14,7 @@ Frontend developer
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/>
 <br/><br/><br/>
 
+<!--
 <table border="0" style="margin-left: auto; margin-right: auto;">
   <tr>
     <td>
@@ -24,5 +25,21 @@ Frontend developer
     </td>
   </tr>
 </table>
+-->
+  <table border="0" style="margin-left: auto; margin-right: auto;">
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=egg-z1" alt="egg-z1's GitHub stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egg-z1" alt="Top Langs" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 </div>

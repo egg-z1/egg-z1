@@ -3,7 +3,7 @@
  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=30:ffbc17,100:fffab7&text=Welcome%20to%20Jihyun's%20GitHub%20🍳&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
 # Introduction
-Front developer
+Frontend developer
 <br/><br/>
 
 # Skill
@@ -12,7 +12,7 @@ Front developer
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/>
-<br/><br/>
+<br/><br/><br/>
 
 <table border="0" style="margin-left: auto; margin-right: auto;">
   <tr>

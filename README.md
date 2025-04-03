@@ -19,6 +19,12 @@ Frontend developer
   <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat&logo=amazons3&logoColor=white"/>
 <br/><br/><br/>
 
+<div align="center">
+  <a href="https://github.com/moon0727">
+    <img src="https://streak-stats.demolab.com?user=egg-z1&theme=tokyonight-duo&hide_border=true&mode=weekly" />&nbsp
+  </a>
+</div>
+
 <!--
 <table border="0" style="margin-left: auto; margin-right: auto;">
   <tr>

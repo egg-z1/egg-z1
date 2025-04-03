@@ -20,9 +20,9 @@ Frontend developer
 <br/><br/><br/>
 
 <div align="center">
-  <a href="https://github.com/moon0727">
+<!--   <a href="https://github.com/egg-z1"> -->
     <img src="https://streak-stats.demolab.com?user=egg-z1&theme=tokyonight-duo&hide_border=true&mode=weekly" />&nbsp
-  </a>
+<!--   </a> -->
 </div>
 
 <!--

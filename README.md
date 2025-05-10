@@ -3,7 +3,7 @@
  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=30:ffbc17,100:fffab7&text=Welcome%20to%20egg-z1's%20GitHub%20🍳&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
 # Introduction
-Frontend developer
+Full-stack developer
 <br/><br/>
 
 # Skill
